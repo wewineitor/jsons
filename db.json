@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "dulces": [
     {
-      "id": 1,
-      "title": "hello"
+      "nombre": "Kit Kat",
+      "precio": "12.00",
+      "categoria": "chocolate"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
