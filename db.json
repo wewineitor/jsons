@@ -1,44 +1,44 @@
 {
-  "dulces": [
-    {
-      "nombre": "Kit Kat",
-      "precio": "15.00",
-      "categoria": "chocolate"
-    },
-    {
-      "nombre": "Huevo Kinder",
-      "precio": "20.00",
-      "categoria": "chocolate"
-    },
-    {
-      "nombre": "Ferrero",
-      "precio": "30.00",
-      "categoria": "chocolate"
-    },
-    {
-      "nombre": "Oreo",
-      "precio": "14.00",
-      "categoria": "galletas"
-    },
-    {
-      "nombre": "Chokis",
-      "precio": "12.00",
-      "categoria": "galletas"
-    },
-    {
-      "nombre": "Principe",
-      "precio": "15.00",
-      "categoria": "galletas"
-    },
-    {
-      "nombre": "Tutsi Pop",
-      "precio": "6.50",
-      "categoria": "paletas"
-    },
-    {
-      "nombre": "Rockaleta",
-      "precio": "10.00",
-      "categoria": "galletas"
-    },
-  ]
+    "dulces": [
+        {
+            "nombre": "Kit Kat",
+            "precio": "15.00",
+            "categoria": "chocolate"
+        },
+        {
+            "nombre": "Huevo Kinder",
+            "precio": "20.00",
+            "categoria": "chocolate"
+        },
+        {
+            "nombre": "Ferrero",
+            "precio": "30.00",
+            "categoria": "chocolate"
+        },
+        {
+            "nombre": "Oreo",
+            "precio": "14.00",
+            "categoria": "galletas"
+        },
+        {
+            "nombre": "Chokis",
+            "precio": "12.00",
+            "categoria": "galletas"
+        },
+        {
+            "nombre": "Principe",
+            "precio": "15.00",
+            "categoria": "galletas"
+        },
+        {
+            "nombre": "Tutsi Pop",
+            "precio": "6.50",
+            "categoria": "paletas"
+        },
+        {
+            "nombre": "Rockaleta",
+            "precio": "10.00",
+            "categoria": "galletas"
+        }
+    ]
 }
