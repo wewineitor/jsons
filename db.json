@@ -38,7 +38,13 @@
         {
             "nombre": "Rockaleta",
             "precio": "10.00",
-            "categoria": "galletas"
+            "categoria": "paletas"
+        }
+    ],
+    "usuarios": [
+        {
+            "nombre" : "wewin",
+            "contra" : "1234" 
         }
     ]
 }
